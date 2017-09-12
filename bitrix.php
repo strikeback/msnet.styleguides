@@ -32,7 +32,7 @@ CITY, BALANCE, COUNT
 ./init.php
 ./includes/functions.php - содержит функции
 ./includes/handlers.php - содержит обработчики событий
-/classes/classX.php - файл класса
+./classes/classX.php - файл класса
 
 В init.php остаются объявления констант, 
 и подключения файлов классов, функций, обработчиков, и других при необходимости.
